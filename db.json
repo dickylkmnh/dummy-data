@@ -133,6 +133,60 @@
                 "code": "0002",
                 "name": "Sampoerna"
             }
+        ],
+        "courier": [
+            {
+            "code": "gosend",
+            "name": "GoSend"
+            },
+            {
+                "code": "jet",
+                "name": "JET Express"
+            },
+            {
+                "code": "jx",
+                "name": "J Express"
+            },
+            {
+                "code": "sap",
+                "name": "SAP Express"
+            },
+            {
+                "code": "sicepat",
+                "name": "SiCepat Ekspres"
+            },
+            {
+                "code": "grab",
+                "name": "Grab Express"
+            },
+            {
+                "code": "sicepat-food",
+                "name": "Sicepat FOOD"
+            },
+            {
+                "code": "sc",
+                "name": "Sentral Cargo"
+            },
+            {
+                "code": "lalamove",
+                "name": "Lalamove"
+            },
+            {
+                "code": "ninja",
+                "name": "Ninja Xpress"
+            },
+            {
+                "code": "jnt",
+                "name": "J&T Express"
+            },
+            {
+                "code": "anteraja",
+                "name": "Anteraja"
+            },
+            {
+                "code": "jne",
+                "name": "JNE  Express"
+            }
         ]
     }
 }
