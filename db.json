@@ -1,5 +1,6 @@
 {
-    "data": [
+    "data": {
+        "partner" : [
         {
             "id": "668DABE7-4803-4954-9265-026B0F70FB20",
             "name": " Albarkastore"
@@ -121,4 +122,5 @@
             "name": "4InStore"
         }
     ]
+    }
 }
