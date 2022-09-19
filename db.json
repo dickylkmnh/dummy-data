@@ -1,126 +1,138 @@
 {
     "data": {
         "partner" : [
-        {
-            "id": "668DABE7-4803-4954-9265-026B0F70FB20",
-            "name": " Albarkastore"
-        },
-        {
-            "id": "7B2C318C-8E2E-4A36-8FE9-8F301D545ACC",
-            "name": " Fani store"
-        },
-        {
-            "id": "63072fe2bd988bd9f59dcc40",
-            "name": " Highday store"
-        },
-        {
-            "id": "98C8154B-D104-4284-B7FF-8BE61F110B39",
-            "name": " SEL SEL STORE"
-        },
-        {
-            "id": "61dd313c9e1b2c46482b4594",
-            "name": " UD Rara Store (YG Group)"
-        },
-        {
-            "id": "6190452ca151872438929cbd",
-            "name": " UD Zaman store"
-        },
-        {
-            "id": "29C93C38-0BA1-4E6B-8DF6-C1359371F96A",
-            "name": "\"22\" BBJSTORE"
-        },
-        {
-            "id": "9FA33A6D-02AC-4516-9728-D5B638C1AD2D",
-            "name": "01011Store "
-        },
-        {
-            "id": "C885C44B-C874-46A8-951A-28A7DD751302",
-            "name": "031 Adventure Store"
-        },
-        {
-            "id": "B0B831DF-9ADB-4A3B-BB9D-B22FE46F3919",
-            "name": "101 Store"
-        },
-        {
-            "id": "3D5A2D0C-55FB-4C59-A06F-3D9D375C64FE",
-            "name": "131 store"
-        },
-        {
-            "id": "6FD297B1-2FC0-4747-80A6-D2D7A57B84B7",
-            "name": "1596 Store"
-        },
-        {
-            "id": "62fa2aae9892b23ed14ae079",
-            "name": "1596 Store"
-        },
-        {
-            "id": "6BE82FD1-C618-481C-9B8C-6ABACFC68C3C",
-            "name": "17BintangStore"
-        },
-        {
-            "id": "68A23470-0235-4FBD-89DD-B884D40EB8D9",
-            "name": "181 fashion store"
-        },
-        {
-            "id": "A5892F82-74F8-4ADF-8CA6-E80848C7DB15",
-            "name": "18sundaystore"
-        },
-        {
-            "id": "4F19F462-106C-47C4-B7E1-455323E1C4F4",
-            "name": "2020Store"
-        },
-        {
-            "id": "4F19F462-106C-47C4-B7E1-455323E1C4F4",
-            "name": "2020Store"
-        },
-        {
-            "id": "D0AB1648-8861-4AD3-9DB1-B9EF144D32D6",
-            "name": "21 Store"
-        },
-        {
-            "id": "2447D07D-8026-4ABF-ABAF-89AEE96B0C00",
-            "name": "22 TUTU STORE"
-        },
-        {
-            "id": "FF956584-AA66-4A35-813D-FA59FD3C8BCF",
-            "name": "23.ShoesStoree"
-        },
-        {
-            "id": "07EEB1B9-6F26-47E4-9B73-8BA027BD3A30",
-            "name": "23store"
-        },
-        {
-            "id": "D3A4AEE6-F9C1-4AC3-8628-20E182373B06",
-            "name": "246gadgetstore"
-        },
-        {
-            "id": "3EBA6DD4-5EDE-42B8-B072-EAD92A9E06F1",
-            "name": "25STORE"
-        },
-        {
-            "id": "6097E266-D2B1-425E-94E0-100E96257EC6",
-            "name": "28-store"
-        },
-        {
-            "id": "9C0207AC-F50D-4911-A778-055D6C07629C",
-            "name": "2F.STORE"
-        },
-        {
-            "id": "96FD035A-7278-4CDA-AB08-D613742CD294",
-            "name": "3Elstore"
-        },
-        {
-            "id": "DAF749A9-7A73-423D-B5F1-3B4DA1530E43",
-            "name": "3s Official Store "
-        },
-        {
-            "id": "52D5508C-E6A2-4350-ACE8-FC619F696C3B",
-            "name": "3store_beauty"
-        },
-        {
-            "id": "B015D868-3CD1-4E01-9331-175C27C53326",
-            "name": "4InStore"
-        }
-    ]
+            {
+                "id": "668DABE7-4803-4954-9265-026B0F70FB20",
+                "name": " Albarkastore"
+            },
+            {
+                "id": "7B2C318C-8E2E-4A36-8FE9-8F301D545ACC",
+                "name": " Fani store"
+            },
+            {
+                "id": "63072fe2bd988bd9f59dcc40",
+                "name": " Highday store"
+            },
+            {
+                "id": "98C8154B-D104-4284-B7FF-8BE61F110B39",
+                "name": " SEL SEL STORE"
+            },
+            {
+                "id": "61dd313c9e1b2c46482b4594",
+                "name": " UD Rara Store (YG Group)"
+            },
+            {
+                "id": "6190452ca151872438929cbd",
+                "name": " UD Zaman store"
+            },
+            {
+                "id": "29C93C38-0BA1-4E6B-8DF6-C1359371F96A",
+                "name": "\"22\" BBJSTORE"
+            },
+            {
+                "id": "9FA33A6D-02AC-4516-9728-D5B638C1AD2D",
+                "name": "01011Store "
+            },
+            {
+                "id": "C885C44B-C874-46A8-951A-28A7DD751302",
+                "name": "031 Adventure Store"
+            },
+            {
+                "id": "B0B831DF-9ADB-4A3B-BB9D-B22FE46F3919",
+                "name": "101 Store"
+            },
+            {
+                "id": "3D5A2D0C-55FB-4C59-A06F-3D9D375C64FE",
+                "name": "131 store"
+            },
+            {
+                "id": "6FD297B1-2FC0-4747-80A6-D2D7A57B84B7",
+                "name": "1596 Store"
+            },
+            {
+                "id": "62fa2aae9892b23ed14ae079",
+                "name": "1596 Store"
+            },
+            {
+                "id": "6BE82FD1-C618-481C-9B8C-6ABACFC68C3C",
+                "name": "17BintangStore"
+            },
+            {
+                "id": "68A23470-0235-4FBD-89DD-B884D40EB8D9",
+                "name": "181 fashion store"
+            },
+            {
+                "id": "A5892F82-74F8-4ADF-8CA6-E80848C7DB15",
+                "name": "18sundaystore"
+            },
+            {
+                "id": "4F19F462-106C-47C4-B7E1-455323E1C4F4",
+                "name": "2020Store"
+            },
+            {
+                "id": "4F19F462-106C-47C4-B7E1-455323E1C4F4",
+                "name": "2020Store"
+            },
+            {
+                "id": "D0AB1648-8861-4AD3-9DB1-B9EF144D32D6",
+                "name": "21 Store"
+            },
+            {
+                "id": "2447D07D-8026-4ABF-ABAF-89AEE96B0C00",
+                "name": "22 TUTU STORE"
+            },
+            {
+                "id": "FF956584-AA66-4A35-813D-FA59FD3C8BCF",
+                "name": "23.ShoesStoree"
+            },
+            {
+                "id": "07EEB1B9-6F26-47E4-9B73-8BA027BD3A30",
+                "name": "23store"
+            },
+            {
+                "id": "D3A4AEE6-F9C1-4AC3-8628-20E182373B06",
+                "name": "246gadgetstore"
+            },
+            {
+                "id": "3EBA6DD4-5EDE-42B8-B072-EAD92A9E06F1",
+                "name": "25STORE"
+            },
+            {
+                "id": "6097E266-D2B1-425E-94E0-100E96257EC6",
+                "name": "28-store"
+            },
+            {
+                "id": "9C0207AC-F50D-4911-A778-055D6C07629C",
+                "name": "2F.STORE"
+            },
+            {
+                "id": "96FD035A-7278-4CDA-AB08-D613742CD294",
+                "name": "3Elstore"
+            },
+            {
+                "id": "DAF749A9-7A73-423D-B5F1-3B4DA1530E43",
+                "name": "3s Official Store "
+            },
+            {
+                "id": "52D5508C-E6A2-4350-ACE8-FC619F696C3B",
+                "name": "3store_beauty"
+            },
+            {
+                "id": "B015D868-3CD1-4E01-9331-175C27C53326",
+                "name": "4InStore"
+            }
+        ],
+        "white_label": [
+            {
+            "id": "611f52b9d3c0f10462734ad8",
+            "code": "0001",
+            "name": "sicepat"
+            },
+            {
+                "id": "6194afa68ff20b865d5a1786",
+                "code": "0002",
+                "name": "Sampoerna"
+            }
+        ]
     }
 }
