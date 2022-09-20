@@ -121,6 +121,28 @@
                 "total": 205000,
                 "whitelabel_id": ""
             }
+        ],
+        "master_widget": "data": [
+            {
+                "id": 0,
+                "code": "OTHER",
+                "description": "Other"
+            },
+            {
+                "id": 1,
+                "code": "ENTRY",
+                "description": "Entry"
+            },
+            {
+                "id": 2,
+                "code": "CONFIRMED",
+                "description": "Confirmed"
+            },
+            {
+                "id": 3,
+                "code": "PICKED",
+                "description": "Picked"
+            }
         ]
     }
 }
