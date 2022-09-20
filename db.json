@@ -122,7 +122,7 @@
                 "whitelabel_id": ""
             }
         ],
-        "master_widget": "data": [
+        "master_widget": [
             {
                 "id": 0,
                 "code": "OTHER",
