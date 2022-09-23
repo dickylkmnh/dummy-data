@@ -112,7 +112,7 @@
                 "description": "Picked"
             }
         ],
-        "detail_order_invoice": [
+        "detail_order_invoice":
             {
                 "invoice_number": "INV/211101/D9413F",
                 "order_number": "INV/211101/D9413F",
@@ -165,6 +165,5 @@
                     }
                 ]
             }
-        ]
     }
 }
