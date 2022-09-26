@@ -1,96 +1,6 @@
 {
     "data": {
-        "partner" : [
-            {
-                "id": "668DABE7-4803-4954-9265-026B0F70FB20",
-                "name": " Albarkastore"
-            },
-            {
-                "id": "7B2C318C-8E2E-4A36-8FE9-8F301D545ACC",
-                "name": " Fani store"
-            }
-        ],
-        "white_label": [
-            {
-            "id": "611f52b9d3c0f10462734ad8",
-            "code": "0001",
-            "name": "sicepat"
-            },
-            {
-                "id": "6194afa68ff20b865d5a1786",
-                "code": "0002",
-                "name": "Sampoerna"
-            }
-        ],
-        "courier": [
-            {
-                "code": "gosend",
-                "name": "GoSend"
-            },
-            {
-                "code": "jet",
-                "name": "JET Express"
-            }
-        ],
-        "data": [
-            {
-                "id": "62be6702addaac6cf550cd85",
-                "user_id": "5eda3db203d75e001b898adb",
-                "order_no": "SINV/220701/E45853",
-                "tenant_id": "11247",
-                "tenant_name": "Beauty In The Pot",
-                "partner_id": "11247",
-                "partner_name": "Beauty In The Pot",
-                "airwaybill": "001484608211",
-                "courier_code": "sicepat",
-                "courier_name": "SiCepat Ekspres",
-                "service": "SIUNT",
-                "is_cod": false,
-                "transaction_type": "COD",
-                "sender_name": "Beauty In The Pot",
-                "sender_email": "inthepotbeauty@gmail.com",
-                "sender_phone": "89652254641",
-                "sender_address": "Jalan Kinanti no. 5, Ganjuran, Manukan RT. 03/RW.04, Condongcatur\r\nDEPOK, KAB. SLEMAN\r\nDAERAH ISTIMEWA YOGYAKARTA 55283",
-                "recipient_name": "Juskalanawati",
-                "recipient_email": "",
-                "recipient_phone": "082230887216",
-                "recipient_address": "Jln. Jemur Sari 7 no. 3 RT/RW  002/010 Kelurahan Jemur Wonosari (Rsi jemur sari belok kiri ada tong belok kanan) (Tolong di Hubungi Sebelum di antar)\r\nWONOCOLO, KOTA SURABAYA\r\nJAWA TIMUR",
-                "order_date": "2022-07-01T03:16:18.761Z",
-                "picked_date": "2022-07-01T15:27:21.465+07:00",
-                "status_id": 6,
-                "status_description": "Delivered",
-                "whitelabel_id": ""
-            },
-            {
-                "id": "62be6705addaac92a050cdbe",
-                "user_id": "5eda3db203d75e001b898adb",
-                "order_no": "SINV/220701/B4A532",
-                "tenant_id": "11247",
-                "tenant_name": "Beauty In The Pot",
-                "partner_id": "11247",
-                "partner_name": "Beauty In The Pot",
-                "airwaybill": "001484608213",
-                "courier_code": "sicepat",
-                "courier_name": "SiCepat Ekspres",
-                "service": "SIUNT",
-                "is_cod": false,
-                "transaction_type": "COD",
-                "sender_name": "Beauty In The Pot",
-                "sender_email": "inthepotbeauty@gmail.com",
-                "sender_phone": "89652254641",
-                "sender_address": "Jalan Kinanti no. 5, Ganjuran, Manukan RT. 03/RW.04, Condongcatur\r\nDEPOK, KAB. SLEMAN\r\nDAERAH ISTIMEWA YOGYAKARTA 55283",
-                "recipient_name": "Sri Yanti Mokoginta",
-                "recipient_email": "",
-                "recipient_phone": "085290292109",
-                "recipient_address": "Jln. Durian Raya Jetis RT 4 RW 7 Kota Magelang\r\nMERTOYUDAN, KAB. MAGELANG\r\nJAWA TENGAH 56172",
-                "order_date": "2022-07-01T03:16:21.632Z",
-                "picked_date": "0001-01-01T00:00:00Z",
-                "status_id": 8,
-                "status_description": "Cancelled",
-                "whitelabel_id": ""
-            }
-        ],
-        "master_widget": [
+        "widget" : [
             {
                 "id": 0,
                 "code": "OTHER",
@@ -110,60 +20,72 @@
                 "id": 3,
                 "code": "PICKED",
                 "description": "Picked"
-            }
-        ],
-        "detail_order_invoice":
+            },
             {
-                "invoice_number": "INV/211101/D9413F",
-                "order_number": "INV/211101/D9413F",
-                "order_date": "2021-11-01T02:21:39.707Z",
-                "partner_category": "clodeo",
-                "partner_id": "11247",
-                "partner_name": "Beauty In The Pot",
-                "partner_address": "",
-                "partner_subdistrict": "",
-                "partner_city": "",
-                "partner_province": "",
-                "partner_postal_code": "",
-                "sender_name": "Beauty In The Pot",
-                "sender_address": "Jl. Damai No.19, Wonorejo, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581 NGAGLIK, KAB. SLEMAN DAERAH ISTIMEWA YOGYAKARTA 55581",
-                "sender_phone": "89652254641",
-                "recipient_name": "Kusyanti",
-                "recipient_address": "Ds. Rambatan Wetan blok Pecuk. Toko Triasmart (Depan SDN panlon 2) RT 29/RW 08 SINDANG, KAB. INDRAMAYU JAWA BARAT 45222",
-                "recipient_phone": "085316056845",
-                "courier": "SiCepat Ekspres",
-                "airwaybill": "001483358799",
-                "shipment_date": "2021-11-01T17:58:00.485+07:00",
-                "weight": 400,
-                "subtotal": 258000,
-                "discount": 79000,
-                "tax": 0,
-                "shipping_charge": 26000,
-                "discount_shipping_charge": 0,
-                "cod_value": 0,
-                "fee_wood_packing": 0,
-                "insurance": 0,
-                "total": 205000,
-                "items": [
-                    {
-                        "name": "",
-                        "description": "[1 Pcs] Acne Night Gel - BITP Acne Series",
-                        "qty": 1,
-                        "value": 59000,
-                        "discount": 0,
-                        "tax": 0,
-                        "total": 59000
-                    },
-                    {
-                        "name": "",
-                        "description": "[1 Paket] BITP: Brightening Series",
-                        "qty": 1,
-                        "value": 199000,
-                        "discount": 0,
-                        "tax": 0,
-                        "total": 199000
-                    }
-                ]
+                "id": 4,
+                "code": "CONFIRM_PROBLEM",
+                "description": "Confirm Problem"
+            },
+            {
+                "id": 5,
+                "code": "ON_PROGRESS",
+                "description": "On Progress"
+            },
+            {
+                "id": 6,
+                "code": "DELIVERED",
+                "description": "Delivered"
+            },
+            {
+                "id": 7,
+                "code": "CANCEL_REQUEST",
+                "description": "Cancel Request"
+            },
+            {
+                "id": 8,
+                "code": "CANCELLED",
+                "description": "Cancelled"
+            },
+            {
+                "id": 9,
+                "code": "ON_HOLD",
+                "description": "On Hold"
+            },
+            {
+                "id": 11,
+                "code": "PROBLEM",
+                "description": "Problem"
+            },
+            {
+                "id": 12,
+                "code": "RETURNED",
+                "description": "Returned"
+            },
+            {
+                "id": 13,
+                "code": "LOST_BROKEN",
+                "description": "Lost Broken"
+            },
+            {
+                "id": 14,
+                "code": "CONFIRM_CANCELLED",
+                "description": "Confirm Cancelled"
+            },
+            {
+                "id": 15,
+                "code": "RETURNING",
+                "description": "Returning"
+            },
+            {
+                "id": 16,
+                "code": "WAITING_FOR_CONFIRMATION",
+                "description": "Waiting for Confirmation"
+            },
+            {
+                "id": 99,
+                "code": "FOLLOW_UP",
+                "description": "Follow Up"
             }
+        ]
     }
 }
