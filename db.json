@@ -1,52 +1,54 @@
 {
-            data: {
-                createdBy: null,
-                updatedBy: "61678be5cb0bb8000817f2f9",
-                deletedBy: null,
-                createdAt: "2022-11-03T07:38:33.855Z",
-                updatedAt: "2022-11-03T07:39:23.128Z",
-                deletedAt: null,
-                Id: "63636ff9247ec65af733906f",
-                SellerId: "63636fb459c15f096afd08a3",
-                Seller: {},
-                VerificationType: "AccountVerification",
-                Status: "Approve",
-                KtpFullName: "Vladimir Biden",
-                KtpId: "1111111111111233",
-                KtpImageId: "63636fd05662ca17b7b698f9",
-                KtpImageUrl: "https://internal-finance-billing-api-development.clodeo.id/v1/public/partner-file/shipdeo/63636fd05662ca17b7b698f9",
-                SelfieWithKtpImageId: null,
-                SelfieWithKtpImageUrl: null,
-                ProofOfAggreementKtpImageUrl: null,
-                Company: {
-                    CompanyImageId: null,
-                    CompanyImageUrl: null,
-                    ProofOfAggreementCompanyImageId: null,
-                    ProofOfAggreementCompanyImageUrl: null,
-                    CompanyName: "User0938",
-                    CompanyEmail: null,
-                    CompanyFax: null,
-                    CompanyPhone: "+628822222574",
-                    CompanyAddress: {
-                        FullAddress: null,
-                        SubdistrictName: "-",
-                        SubdistrictCode: "-",
-                        CityCode: "-",
-                        CityName: "-",
-                        ProvinceName: "-",
-                        ProvinceCode: "-"
-                    },
-                    CompanyWebsite: null
-                },
-                Bank: {
-                    BankAccountName: "Andi Test",
-                    BankAccountNumber: "2221211212",
-                    BankBranchName: "Itaewon",
-                    BankName: "Bank Jago",
-                    BankSavingBookImageId: "63636fe45662ca2359b69919",
-                    BankSavingBookImageUrl: "https://internal-finance-billing-api-development.clodeo.id/v1/public/partner-file/shipdeo/63636fe45662ca2359b69919",
-                    ProofOfAggreementBankSavingBookImageId: null,
-                    ProofOfAggreementBankSavingBookImageUrl: null
-                }
-            }
+"errors": [],
+"success": true,
+"data": {
+"createdBy": null,
+"updatedBy": "61678be5cb0bb8000817f2f9",
+"deletedBy": null,
+"createdAt": "2022-11-03T07:38:33.855Z",
+"updatedAt": "2022-11-03T07:39:23.128Z",
+"deletedAt": null,
+"Id": "63636ff9247ec65af733906f",
+"SellerId": "63636fb459c15f096afd08a3",
+"Seller": {},
+"VerificationType": "AccountVerification",
+"Status": "Approve",
+"KtpFullName": "Vladimir Biden",
+"KtpId": "1111111111111233",
+"KtpImageId": "63636fd05662ca17b7b698f9",
+"KtpImageUrl": "https://internal-finance-billing-api-development.clodeo.id/v1/public/partner-file/shipdeo/63636fd05662ca17b7b698f9",
+"SelfieWithKtpImageId": null,
+"SelfieWithKtpImageUrl": null,
+"ProofOfAggreementKtpImageUrl": null,
+"Company": {
+"CompanyImageId": null,
+"CompanyImageUrl": null,
+"ProofOfAggreementCompanyImageId": null,
+"ProofOfAggreementCompanyImageUrl": null,
+"CompanyName": "User0938",
+"CompanyEmail": null,
+"CompanyFax": null,
+"CompanyPhone": "+628822222574",
+"CompanyAddress": {
+"FullAddress": null,
+"SubdistrictName": "-",
+"SubdistrictCode": "-",
+"CityCode": "-",
+"CityName": "-",
+"ProvinceName": "-",
+"ProvinceCode": "-"
+},
+"CompanyWebsite": null
+},
+"Bank": {
+"BankAccountName": "Andi Test",
+"BankAccountNumber": "2221211212",
+"BankBranchName": "Itaewon",
+"BankName": "Bank Jago",
+"BankSavingBookImageId": "63636fe45662ca2359b69919",
+"BankSavingBookImageUrl": "https://internal-finance-billing-api-development.clodeo.id/v1/public/partner-file/shipdeo/63636fe45662ca2359b69919",
+"ProofOfAggreementBankSavingBookImageId": null,
+"ProofOfAggreementBankSavingBookImageUrl": null
+}
+}
 }
