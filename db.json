@@ -1,6 +1,4 @@
 {
-            errors: [],
-            success: true,
             data: {
                 createdBy: null,
                 updatedBy: "61678be5cb0bb8000817f2f9",
@@ -51,4 +49,4 @@
                     ProofOfAggreementBankSavingBookImageUrl: null
                 }
             }
-        }
+}
